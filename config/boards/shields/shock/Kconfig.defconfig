@@ -1,0 +1,6 @@
+if SHIELD_SHOCK
+
+config ZMK_KEYBOARD_SHOCK
+    default "shock"
+
+endif
